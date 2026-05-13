@@ -1,11 +1,10 @@
 REQUIREMENTS
 ------------
   pip install MetaTrader5 pandas numpy
-  (No extra packages needed for Telegram -- uses built-in urllib)
 
 USAGE
 -----
-  trading_bot_v7_0_8_prod_v17.1.py --symbols XAUUSD+ XAGUSD --dashboard-port 9000
+  trading_bot.py --symbols XAUUSD+ EURUSD+ --dashboard-port 9000
 
 DASHBOARD
 ---------
